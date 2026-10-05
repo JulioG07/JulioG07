@@ -15,7 +15,7 @@ Last summer I interned at Nativo Digital in Mérida, Mexico. I built a 360 perfo
 ## 🚀 Projects
 
 - [Avisa](https://github.com/JulioG07/Avisa): say an appointment out loud (English or Spanish) and it gets added to your Google Calendar
-- Evento-AI: turns GroupMe messages into calendar events, built at the Lehigh Valley Hackathon
+- [Evento-AI](https://github.com/JulioG07/Lehigh-Valley-Hackathon-2025): turns GroupMe messages into calendar events, built at the Lehigh Valley Hackathon
 - [Expense Tracker](https://github.com/JulioG07/Julio-s-DAE-Projects/tree/main/sql_1): log in, set a savings goal, and track your progress
 - [Snake](https://github.com/JulioG07/snake-game): Pygame with power-ups and high scores, won Best Design at SEO
 - [IoT Mailbox Sensor](https://github.com/JulioG07/IOT-Project): an Arduino sensor that tells you when mail arrives
@@ -26,22 +26,26 @@ A lot of my early projects came from Synchrony Skills Academy (2022 to 2025), a 
 
 ## 🧰 Tech
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="40" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="40" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="40" />
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" width="40" />
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" width="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="40" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" width="40" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="40" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" /><br><sub>Java</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" /><br><sub>Python</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /><br><sub>React</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" /><br><sub>Next.js</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" /><br><sub>PHP</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" /><br><sub>Laravel</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="40" alt="Django" /><br><sub>Django</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /><br><sub>MySQL</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase" /><br><sub>Firebase</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" /><br><sub>AWS</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++" /><br><sub>C++</sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /><br><sub>Git</sub></td>
+  </tr>
+</table>
 
 ## 🤝 Let's connect
 
