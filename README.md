@@ -4,7 +4,7 @@ I'm a CS + Business student at Lehigh University, minoring in Data Science and E
 
 ## 🔨 What I'm working on
 
-- Building AI agents as an intern at Hyrding
+- Writing test cases for AI agents as an intern at Hyrding
 - Treasurer for ColorStack at Lehigh
 - Fellow in Lehigh Product Society
 
